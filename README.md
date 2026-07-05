@@ -23,7 +23,6 @@ For regression analysis, econometric testing, and data visualization, the textbo
 * 📁 **[Մաս 1. Ծրագրային միջավայրի կարգավորումը և տվյալների ներմուծումը](notebooks/part1/)**  J
  * 📝 Օրինակ 1.1. Jupyter Միջավայր — [![Open In Colab](https://google.com)](https://google.com[gayaneghukasyan]/[python-econometrics-book]/blob/[main/notebooks/part1]/[example_11.ipynb])
 
-
 * 📁 **[Մաս 2. Էկոնոմետրիկ տվյալների նախնական վերլուծությունը և վիզուալիզացիան](notebooks/part2/)**  
   * Նկարագրական վիճակագրություն
   * Գծապատկերներ (Matplotlib, Seaborn) և Կոռելյացիոն մատրիցներ
