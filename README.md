@@ -35,7 +35,7 @@ For regression analysis, econometric testing, and data visualization, the textbo
 
 * 📁 **[Մաս 4. Մոդելների էկոնոմետրիկ ախտորոշումը և թեստավորումը](notebooks/part4/)**  
   * Նորմալ բաշխվածության ստուգում, Հետերոսկեդաստիկություն
-  * Ավտոկոռելյացիա և Բազմակոլինեարություն (VIF թեստ)
+  * Բազմակոլինեարություն (VIF թեստ)
 
 * 📁 **[Մաս 5. Ոչ գծային կախվածությունների գնահատումը Python-ում](notebooks/part5/)**  
   * Լոգարիթմական մոդելներ (Log-Log, Lin-Log, Log-Lin)
@@ -49,9 +49,8 @@ For regression analysis, econometric testing, and data visualization, the textbo
 
 ## 🚀 Ինչպես սկսել (Installation)
 
-Այս կոդերն իրականացնելու համար ձեր համակարգչում պետք է տեղադրված լինի **Anaconda** փաթեթը: Անհրաժեշտ գրադարանները կարող եք թարմացնել կամ տեղադրել Anaconda Prompt-ում հետևյալ հրամանով.
+Այս կոդերն իրականացնելու համար ձեր համակարգչում պետք է տեղադրված լինի **Anaconda** փաթեթը: Անհրաժեշտ գրադարանները կարող են թարմացվել կամ տեղադրվել Anaconda Prompt-ում հետևյալ հրամանով.
 
 ```bash
 pip install numpy pandas matplotlib seaborn scipy statsmodels openpyxl
 ```
-
