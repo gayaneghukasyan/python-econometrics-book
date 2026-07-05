@@ -20,10 +20,14 @@ For regression analysis, econometric testing, and data visualization, the textbo
 
 ### 📘 Բովանդակություն և Ծրագրային Կոդեր
 
+### 📘 Բովանդակություն և Ծրագրային Կոդեր
 
 * 📁 **[Մաս 1. Ծրագրային միջավայրի կարգավորումը և տվյալների ներմուծումը](notebooks/part1/)**  
   * 📝 Օրինակ 1.1. Jupyter Միջավայր — [![Open In Colab](https://google.com)](https://google.com)
- 
+  * 📝 Օրինակ 1.2 — [![Open In Colab](https://google.com)](https://google.com)
+  * 📝 Օրինակ 1.3 — [![Open In Colab](https://google.com)](https://google.com)
+
+
 
 * 📁 **[Մաս 2. Էկոնոմետրիկ տվյալների նախնական վերլուծությունը և վիզուալիզացիան](notebooks/part2/)**  
   * Նկարագրական վիճակագրություն
