@@ -20,8 +20,10 @@ For regression analysis, econometric testing, and data visualization, the textbo
 
 ### 📘 Բովանդակություն և Ծրագրային Կոդեր
 
-* 📁 **[Մաս 1. Ծրագրային միջավայրի կարգավորումը և տվյալների ներմուծումը](notebooks/part1/)**  
-  [![Open In Colab](https://google.com)](https://google.com)
+* 📁 **Մաս 1. Ծրագրային միջավայրի կարգավորումը և տվյալների ներմուծումը** ([Բացել թղթապանակը](notebooks/part1/))
+  * 📝 Օրինակ 1.1. Jupyter Միջավայր — [![Open In Colab](https://google.com)](https://google.com)
+  * 📝 Օրինակ 1.2. NumPy-ի կիրառությունը — [![Open In Colab](https://google.com)](https://google.com)
+  * 📝 Օրինակ 1.3. Pandas-ով տվյալների ներմուծում — [![Open In Colab](https://google.com)](https://google.com)
   * Jupyter Notebook միջավայր, NumPy և Pandas գրադարաններ
   * CSV և Excel ֆայլերի ներբեռնում, միջազգային շտեմարաններ
 
